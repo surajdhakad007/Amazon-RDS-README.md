@@ -223,4 +223,4 @@ quit;
 ---
 
 This README is GitHub‑ready. Let me know if you want to add diagrams, architecture illustrations, or SQL examples!
-README
+README.
