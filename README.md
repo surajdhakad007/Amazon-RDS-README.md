@@ -196,7 +196,7 @@ quit;
 5. Type: **delete me**
 6. Click Delete
 
-✅ RDS instance will be removed.
+✅ RDS instance will be removed..
 
 ---
 
